@@ -1,11 +1,12 @@
 import './App.css';
 
 function App() {
-  return (
-    <div className="body-wrap">
+    return (
+        <div className="body-wrap">
 
-    </div>
-  );
+
+        </div>
+    );
 }
 
 export default App;
