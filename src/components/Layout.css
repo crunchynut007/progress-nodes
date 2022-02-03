@@ -75,6 +75,7 @@
 
 .btn:active {
     transform: scale(0.98);
+    outline: 0;
 }
 
 .btn:hover {
